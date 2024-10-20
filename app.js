@@ -3,12 +3,11 @@ const typingInput = document.querySelector(".typing-input");
 const chatList = document.querySelector(".chat-list");
 const suggestions = document.querySelectorAll(".suggestion-list .suggestion")
 const sendButton = document.querySelector(".send-btn");
-require('dotenv').config();
 
 let userMessage = null
 let isResponseGenerating = false
 
-const API_KEY = process.env.API_KEY ;
+const API_KEY = "AIzaSyATDksjTtepCzPiXXLeXT1zkx8Z7sJzTMY";
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`
 
 
