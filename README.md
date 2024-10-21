@@ -31,38 +31,17 @@
 
 <h3>Screenshots:</h3>
 
-<div class="image-container">
-    <div class="image-item">
+<div>
+    <div style="display: inline-block">
         <h5>Mobile View 1</h5>
         <img src="https://github.com/PrakharAgarwal135/GeminiClone/blob/main/images/readme%20ss/mob1.png" alt="Mobile View 1">
     </div>
-    <div class="image-item">
+    <div style="display: inline-block">
         <h5>Mobile View 2</h5>
         <img src="https://github.com/PrakharAgarwal135/GeminiClone/blob/main/images/readme%20ss/mob2.png" alt="Mobile View 2">
     </div>
 </div>
 
-<style>
-    .image-container {
-        display: flex;
-        justify-content: space-around; /* Space between images */
-        flex-wrap: wrap; /* Allow wrapping on smaller screens */
-        margin-bottom: 20px;
-    }
-
-    .image-item {
-        flex: 1;
-        margin: 10px;
-        text-align: center;
-    }
-
-    .image-item img {
-        max-width: 100%; /* Responsive image scaling */
-        height: auto;
-        border: 1px solid #ccc; /* Optional border */
-        border-radius: 4px; /* Optional rounded corners */
-    }
-</style>
 
 
 
