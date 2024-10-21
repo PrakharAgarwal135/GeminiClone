@@ -19,13 +19,18 @@
 -  **Gemini API**: Integrated for real-time chatbot interaction.
 -  **Axios**: Used for making HTTP requests to integrate the Gemini API for real-time chatbot functionality.
 
+---
+
+<h3>Screenshots:</h3>
+
+>Desktop View
+![desktop](https://github.com/PrakharAgarwal135/GeminiClone/blob/main/images/readme%20ss/desk1.png)
+![desktop](https://github.com/PrakharAgarwal135/GeminiClone/blob/main/images/readme%20ss/desk3.png)
 
 
-
-
-
-
-
+>Mobile View
+![mobile](https://github.com/PrakharAgarwal135/GeminiClone/blob/main/images/readme%20ss/mob1.png)
+![mobile](https://github.com/PrakharAgarwal135/GeminiClone/blob/main/images/readme%20ss/mob2.png)
 
 
 ---
