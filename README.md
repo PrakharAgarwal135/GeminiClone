@@ -31,12 +31,12 @@
 
 <h3>Screenshots:</h3>
 
-<div>
-    <div style="display: inline-block">
+<div style="display:flex">
+    <div>
         <h5>Mobile View 1</h5>
         <img src="https://github.com/PrakharAgarwal135/GeminiClone/blob/main/images/readme%20ss/mob1.png" alt="Mobile View 1">
     </div>
-    <div style="display: inline-block">
+    <div>
         <h5>Mobile View 2</h5>
         <img src="https://github.com/PrakharAgarwal135/GeminiClone/blob/main/images/readme%20ss/mob2.png" alt="Mobile View 2">
     </div>
