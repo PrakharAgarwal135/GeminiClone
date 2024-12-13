@@ -5,7 +5,7 @@
 
 <h3>Deployment:</h3>
 
-- 🚀 **Live Demo**: Check out the live version of EduQuest <a href="https://gemini121.netlify.app/">here</a>
+- 🚀 **Live Demo**: Check out the live version of Gemini Clone <a href="https://gemini121.netlify.app/">here</a>
 
 ---
 
