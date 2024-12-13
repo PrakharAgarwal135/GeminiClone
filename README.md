@@ -3,6 +3,12 @@
 
 ---
 
+<h3>Deployment:</h3>
+
+- 🚀 **Live Demo**: Check out the live version of EduQuest <a href="https://gemini121.netlify.app/">here</a>
+
+---
+
 <h3>Major Takeaways:</h3>
 
 - Learned API integration to fetch and display dynamic data from external sources.
