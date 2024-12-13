@@ -1,5 +1,5 @@
-<h1>Gemini Clone</h1>
-<p>This project is a clone of the Gemini platform, showcasing the integration of the Gemini API for a real-time chat bot</p>
+<h1>Gemini Clone (Practice Project)</h1>
+<p>This project is a clone of the Gemini platform, showcasing the integration of the Gemini API for a real-time chatbot.</p>
 
 ---
 
